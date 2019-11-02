@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AACPractice</string>
+
+    <string name="practice_bottom_sheet">Practice BottomSheet</string>
 </resources>
